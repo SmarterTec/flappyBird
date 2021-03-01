@@ -1,9 +1,10 @@
+# https://www.youtube.com/watch?v=1xkykD5Olok
+
 import pygame
 import neat
 import time
 import os
 import random
-#flapp
 
 WIN_WIDTH = 500
 WIN_HEIGHT = 800
